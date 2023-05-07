@@ -1,0 +1,16 @@
+Fonts;
+body;
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,700;1,200&display=swap" rel="stylesheet">
+headings:<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gloock&family=Nunito+Sans:ital,wght@0,400;0,700;1,200&display=swap" rel="stylesheet">
+
+Colours: #dde8b9 (tea green) #e7c6ff (light purple) # 000000 Black #767522 (camo green) #bbd0ff (light Blue)
+
+Layout examples:
+https://www.artstar.com/
+https://tattly.com/
+
+Pages; Home, shop, gallery, contact. Bouquet comission. 
