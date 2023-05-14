@@ -13,4 +13,5 @@ Layout examples:
 https://www.artstar.com/
 https://tattly.com/
 
-Pages; Home, shop, gallery, contact. Bouquet comission. 
+Pages; Home, shop, gallery, contact. Bouquet comission.
+user interface that makes uploading new products easier.  
