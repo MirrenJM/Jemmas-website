@@ -1,0 +1,3 @@
+[submodule "jemmaw/repo1"]
+	path = jemmaw/repo1
+	url = https://github.com/MirrenJM/Submodule-PS.git
